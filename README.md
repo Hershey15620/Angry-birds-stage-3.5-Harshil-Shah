@@ -1,2 +1,2 @@
-# Angry-birds-stage-3.5-Harshil-Shah
-making mouse effects with band on slingshot
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
